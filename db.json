@@ -1,28 +1,34 @@
 {
-  "Filmes": [
+  "filmes": [
     {
       "id": 1,
-      "title": "Namorada de aluguel"
+      "titulo": "Namorada de aluguel",
+      "ano": 1987
     },
       {
       "id": 2,
-      "title": "Para todos os garotos que eu já amei"
+      "titulo": "Para todos os garotos que eu já amei",
+      "ano": 2018
     },
       {
       "id": 3,
-      "title": "Simplesmente Acontece"
+      "titulo": "Simplesmente Acontece",
+      "ano": 2014
     },
       {
       "id":4 ,
-      "title": "Amizade colorida"
+      "titulo": "Amizade colorida",
+      "ano": 2011
     },
       {
       "id":5 ,
-      "title": "Como perder um cara em 10 dias "
+      "titulo": "Como perder um homem em 10 dias ",
+      "ano": 2003
     },
       {
       "id":6 ,
-      "title": "A cinco passos de você"
+      "titulo": "A cinco passos de você",
+      "ano": 2019
     }
   ]
 }
