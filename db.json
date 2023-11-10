@@ -1,14 +1,28 @@
-[
+{
+  "Filmes": [
     {
-        "id": 1,
-        "title": "10 Coisas que eu odeio em você."
+      "id": 1,
+      "title": "Namorada de aluguel"
     },
-    {
-        "id": 2,
-        "title": "Para todos os garotos que eu já amei."
+      {
+      "id": 2,
+      "title": "Para todos os garotos que eu já amei"
     },
-    {
-        "id": 3,
-        "title": "Namorada de aluguel."
+      {
+      "id": 3,
+      "title": "Simplesmente Acontece"
+    },
+      {
+      "id":4 ,
+      "title": "Amizade colorida"
+    },
+      {
+      "id":5 ,
+      "title": "Como perder um cara em 10 dias "
+    },
+      {
+      "id":6 ,
+      "title": "A cinco passos de você"
     }
-]
+  ]
+}
