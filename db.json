@@ -1,34 +1,100 @@
 {
-  "filmes": [
+  "albuns": [
     {
-      "id": 1,
-      "titulo": "Namorada de aluguel",
-      "ano": 1987
+      "id": "academia",
+      "titulo": "Academia",
+      "descricao": "Fotos do álbum Academia",
+      "data": "2023-01-01",
+      "imagens": [
+        "academia(0).jpg", "academia(1).jpg", "academia(2).jpg", "academia(3).jpg",
+        "academia(4).jpg", "academia(5).jpg", "academia(6).jpg", "academia(7).jpg",
+        "academia(8).jpg", "academia(9).jpg", "academia(10).jpg", "academia(11).jpg",
+        "academia(12).jpg", "academia(13).jpg", "academia(14).jpg", "academia(15).jpg"
+      ]
     },
-      {
-      "id": 2,
-      "titulo": "Para todos os garotos que eu já amei",
-      "ano": 2018
+    {
+      "id": "amigos",
+      "titulo": "Amigos",
+      "descricao": "Fotos do álbum Amigos",
+      "data": "2023-02-01",
+      "imagens": [
+        "amigos(0).jpg", "amigos(1).jpg", "amigos(2).jpg", "amigos(3).jpg",
+        "amigos(4).jpg", "amigos(5).jpg", "amigos(6).jpg", "amigos(7).jpg",
+        "amigos(8).jpg", "amigos(9).jpg", "amigos(10).jpg", "amigos(11).jpg",
+        "amigos(12).jpg", "amigos(13).jpg", "amigos(14).jpg", "amigos(15).jpg"
+      ]
     },
-      {
-      "id": 3,
-      "titulo": "Simplesmente Acontece",
-      "ano": 2014
+    {
+      "id": "animais",
+      "titulo": "Animais",
+      "descricao": "Fotos do álbum Animais",
+      "data": "2023-03-01",
+      "imagens": [
+        "animais(0).jpg", "animais(1).jpg", "animais(2).jpg", "animais(3).jpg",
+        "animais(4).jpg", "animais(5).jpg", "animais(6).jpg", "animais(7).jpg",
+        "animais(8).jpg", "animais(9).jpg", "animais(10).jpg", "animais(11).jpg",
+        "animais(12).jpg", "animais(13).jpg", "animais(14).jpg", "animais(15).jpg"
+      ]
     },
-      {
-      "id":4 ,
-      "titulo": "Amizade colorida",
-      "ano": 2011
+    {
+      "id": "bares",
+      "titulo": "Bares",
+      "descricao": "Fotos do álbum Bares",
+      "data": "2023-04-01",
+      "imagens": [
+        "bares(0).jpg", "bares(1).jpg", "bares(2).jpg", "bares(3).jpg",
+        "bares(4).jpg", "bares(5).jpg", "bares(6).jpg", "bares(7).jpg",
+        "bares(8).jpg", "bares(9).jpg", "bares(10).jpg", "bares(11).jpg",
+        "bares(12).jpg", "bares(13).jpg", "bares(14).jpg", "bares(15).jpg"
+      ]
     },
-      {
-      "id":5 ,
-      "titulo": "Como perder um homem em 10 dias ",
-      "ano": 2003
+    {
+      "id": "casamento",
+      "titulo": "Casamento",
+      "descricao": "Fotos do álbum Casamento",
+      "data": "2023-05-01",
+      "imagens": [
+        "casamento(0).jpg", "casamento(1).jpg", "casamento(2).jpg", "casamento(3).jpg",
+        "casamento(4).jpg", "casamento(5).jpg", "casamento(6).jpg", "casamento(7).jpg",
+        "casamento(8).jpg", "casamento(9).jpg", "casamento(10).jpg", "casamento(11).jpg",
+        "casamento(12).jpg", "casamento(13).jpg", "casamento(14).jpg", "casamento(15).jpg"
+      ]
     },
-      {
-      "id":6 ,
-      "titulo": "A cinco passos de você",
-      "ano": 2019
+    {
+      "id": "familia",
+      "titulo": "Família",
+      "descricao": "Fotos do álbum Família",
+      "data": "2023-06-01",
+      "imagens": [
+        "familia(0).jpg", "familia(1).jpg", "familia(2).jpg", "familia(3).jpg",
+        "familia(4).jpg", "familia(5).jpg", "familia(6).jpg", "familia(7).jpg",
+        "familia(8).jpg", "familia(9).jpg", "familia(10).jpg", "familia(11).jpg",
+        "familia(12).jpg", "familia(13).jpg", "familia(14).jpg", "familia(15).jpg"
+      ]
+    },
+    {
+      "id": "natal",
+      "titulo": "Natal",
+      "descricao": "Fotos do álbum Natal",
+      "data": "2023-07-01",
+      "imagens": [
+        "natal(0).jpg", "natal(1).jpg", "natal(2).jpg", "natal(3).jpg",
+        "natal(4).jpg", "natal(5).jpg", "natal(6).jpg", "natal(7).jpg",
+        "natal(8).jpg", "natal(9).jpg", "natal(10).jpg", "natal(11).jpg",
+        "natal(12).jpg", "natal(13).jpg", "natal(14).jpg", "natal(15).jpg"
+      ]
+    },
+    {
+      "id": "viagens",
+      "titulo": "Viagens",
+      "descricao": "Fotos do álbum Viagens",
+      "data": "2023-08-01",
+      "imagens": [
+        "viagens(0).jpg", "viagens(1).jpg", "viagens(2).jpg", "viagens(3).jpg",
+        "viagens(4).jpg", "viagens(5).jpg", "viagens(6).jpg", "viagens(7).jpg",
+        "viagens(8).jpg", "viagens(9).jpg", "viagens(10).jpg", "viagens(11).jpg",
+        "viagens(12).jpg", "viagens(13).jpg", "viagens(14).jpg", "viagens(15).jpg"
+      ]
     }
   ]
 }
